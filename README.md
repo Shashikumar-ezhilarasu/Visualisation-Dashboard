@@ -1,6 +1,6 @@
 # V-Dashboard
 
-V-Dashboard is a React-based data visualization dashboard that allows users to upload data files in CSV, JSON, and Excel formats. The dashboard fetches data from an API and displays it in various chart formats including line charts, bar charts, and pie charts.
+V-Dashboard is a React-based data visualization dashboard that allows users to upload data files in CSV, JSON, and Excel formats. The dashboard fetches data from an API and displays it in various chart formats including line charts, bar charts, and pie charts 
 
 ## Table of Contents
 
